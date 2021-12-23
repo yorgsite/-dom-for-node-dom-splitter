@@ -20,7 +20,9 @@ Component 'dom-splitter'.
  
 **use** : _dom( **'dom-splitter'** , **direction** )
  
-  + **param** : direction `'auto'|0|1` split direction 0=x 1=y
+ + **param** : direction `'auto'|0|1`
+
+&emsp; split direction 0=x 1=y
  
  
 [▲](#main_menu)
@@ -39,15 +41,18 @@ Component 'dom-splitter' model handler.
 + ### <a name="direction"></a> attr **direction**
 &emsp;&emsp; split direction 0=x 1=y
 
-&emsp; 				 'auto'=the biggest direction
+&emsp;&emsp; 'auto'=the biggest direction
 
-&emsp;&emsp; **use** : domSplitterModel.direction `'auto'|0|1` 
+&emsp;&emsp; **use** : domSplitterModel.direction `'auto'|0|1`
 <hr/>
  
-+ ### <a name="sizes"></a> attr **sizes** readOnly
++ ### <a name="sizes"></a> attr **sizes**
+
+&emsp;&emsp; readOnly
+
 &emsp;&emsp; containers sizes [[c0.width,c0.height],[c1.width,c1.height]]
 
-&emsp;&emsp; **use** : domSplitterModel.sizes `[[number,number],[number,number]]` 
+&emsp;&emsp; **use** : domSplitterModel.sizes `[[number,number],[number,number]]`
  
 [▲](#main_menu)
 <hr/>
