@@ -1,0 +1,28 @@
+{
+	"name": "@dom-for-node/dom-splitter",
+	"version": "1.0.0",
+	"description": "description",
+	"main": "dom-splitter.model.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"pub": "npm version patch && npm publish --access=public"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/yorgsite/-dom-for-node-dom-splitter.git"
+	},
+	"keywords": [
+		"dom-for-node",
+		"_dom.js",
+		"element",
+		"html",
+		"js",
+		"model"
+	],
+	"author": "Yorg",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/yorgsite/-dom-for-node-dom-splitter/issues"
+	},
+	"homepage": "https://github.com/yorgsite/-dom-for-node-dom-splitter#readme"
+}
