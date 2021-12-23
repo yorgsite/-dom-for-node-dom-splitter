@@ -54,7 +54,7 @@ Component 'dom-splitter' model handler.
 
 + ### <a name="sizes"></a> attr **sizes**
 
-&emsp;&emsp; `readOnly`
+&emsp;&emsp; **readOnly**
 
 
 &emsp;&emsp; containers sizes [[c0.width,c0.height],[c1.width,c1.height]]
